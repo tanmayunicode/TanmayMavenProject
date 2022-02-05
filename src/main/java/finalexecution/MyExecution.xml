@@ -1,0 +1,8 @@
+<suite name="Final Project Execution">
+<test name="HTML Elements">
+<classes>
+<class name="testcases.HTMLElements"></class>
+</classes>
+
+</test>
+</suite>
